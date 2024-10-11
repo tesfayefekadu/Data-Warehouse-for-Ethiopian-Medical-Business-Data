@@ -1,0 +1,86 @@
+2024-10-11 19:36:52,254 - Starting Telegram scraping script
+2024-10-11 19:36:52,254 - Starting scraping for DoctorsET
+2024-10-11 19:36:52,254 - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:36:52,363 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:52,364 - Connection error 1 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:52,365 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:53,459 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:53,459 - Connection error 2 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:53,460 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:54,549 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:54,550 - Connection error 3 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:54,550 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:55,660 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:55,661 - Connection error 4 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:55,661 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:56,768 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:56,768 - Connection error 5 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:56,769 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:57,879 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:57,879 - Connection error 6 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:57,880 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:58,880 - Error while scraping DoctorsET: Connection to Telegram failed 5 time(s)
+2024-10-11 19:36:58,880 - Starting scraping for lobelia4cosmetics
+2024-10-11 19:36:58,881 - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:36:58,990 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:58,990 - Connection error 1 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:36:58,990 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:00,094 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:00,094 - Connection error 2 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:00,094 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:01,199 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:01,200 - Connection error 3 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:01,200 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:02,307 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:02,307 - Connection error 4 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:02,308 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:03,416 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:03,416 - Connection error 5 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:03,417 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:04,522 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:04,522 - Connection error 6 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:04,523 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:05,525 - Error while scraping lobelia4cosmetics: Connection to Telegram failed 5 time(s)
+2024-10-11 19:37:05,525 - Starting scraping for yetenaweg
+2024-10-11 19:37:05,525 - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:37:05,634 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:05,634 - Connection error 1 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:05,635 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:06,745 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:06,745 - Connection error 2 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:06,746 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:07,853 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:07,854 - Connection error 3 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:07,854 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:08,959 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:08,959 - Connection error 4 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:08,959 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:10,069 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:10,070 - Connection error 5 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:10,070 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:11,176 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:11,176 - Connection error 6 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:11,177 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:12,177 - Error while scraping yetenaweg: Connection to Telegram failed 5 time(s)
+2024-10-11 19:37:12,181 - Starting scraping for EAHCI
+2024-10-11 19:37:12,182 - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:37:12,288 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:12,288 - Connection error 1 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:12,289 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:13,399 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:13,399 - Connection error 2 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:13,400 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:14,505 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:14,505 - Connection error 3 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:14,506 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:15,615 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:15,615 - Connection error 4 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:15,616 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:16,725 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:16,726 - Connection error 5 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:16,726 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:17,831 - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:17,831 - Connection error 6 during auth_key gen: ConnectionResetError: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:17,831 - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:37:18,831 - Error while scraping EAHCI: Connection to Telegram failed 5 time(s)
+2024-10-11 19:37:18,831 - Finished Telegram scraping script

@@ -3,7 +3,7 @@ import pandas as pd
 import logging
 
 # Configure logging
-logging.basicConfig(filename='scraping_log.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+logging.basicConfig(filename='scripts/scraping_log.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 # Telegram API credentials
 api_id = '1705947'
@@ -30,7 +30,7 @@ def scrape_telegram_channel(channel_username, limit=100):
         return []
 
 # Store scraped data in a DataFrame
-def store_scraped_data(data, filename='scraped_data.csv'):
+def store_scraped_data(data, filename='data/scraped_data.csv'):
     df = pd.DataFrame(data, columns=['Message ID', 'Date', 'Message'])
     df.to_csv(filename, index=False)
     logging.info(f'Stored scraped data to {filename}')
