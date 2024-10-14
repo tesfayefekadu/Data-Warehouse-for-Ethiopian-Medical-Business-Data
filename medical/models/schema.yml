@@ -1,0 +1,16 @@
+# In models/schema.yml
+
+version: 2
+
+models:
+  - name: cleaned_data
+    columns:
+      - name: message_id
+        tests:
+          - not_null
+      - name: message_id
+        tests:
+          - unique
+      - name: date
+        tests:
+          - not_null
