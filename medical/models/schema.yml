@@ -8,7 +8,7 @@ models:
       - name: message_id
         tests:
           - not_null
-      - name: message_id
+      - name: telegram_id
         tests:
           - unique
       - name: date

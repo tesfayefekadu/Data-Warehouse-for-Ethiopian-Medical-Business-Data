@@ -1,4 +1,5 @@
 -- models/raw_data.sql
+-- models/raw_data.sql
 
 SELECT
     message_id,
@@ -8,4 +9,4 @@ SELECT
     message,
     date,
     media_path
-FROM {{ source('public', 'medical_business_data') }}
+FROM {{ source'('public', 'medical_business_data')' }}
