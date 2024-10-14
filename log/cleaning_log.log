@@ -1,0 +1,4 @@
+2024-10-14 17:42:33,310 - Starting data cleaning process
+2024-10-14 17:42:33,311 - Removed {len(df) - len(df_cleaned)} duplicates
+2024-10-14 17:42:33,311 - Handled missing values
+2024-10-14 17:42:33,311 - Saved cleaned data
