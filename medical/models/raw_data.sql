@@ -1,6 +1,3 @@
--- models/raw_data.sql
--- models/raw_data.sql
-
 SELECT
     message_id,
     channel_title,
@@ -9,4 +6,4 @@ SELECT
     message,
     date,
     media_path
-FROM {{ source'('public', 'medical_business_data')' }}
+ FROM {{ source('public', 'medical_business_data') }}
