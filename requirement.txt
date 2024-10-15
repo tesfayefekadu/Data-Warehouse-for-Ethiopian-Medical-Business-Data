@@ -1,3 +1,4 @@
 pandas
 logging
 telethon
+psycopg2
