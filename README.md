@@ -37,7 +37,7 @@ This project aims to create a **centralized data warehouse** to store and analyz
 
 ### Clone the Repository
 \`\`\`bash
-git clone https://github.com/yourusername/Data-Warehouse-for-Ethiopian-Medical-Business-Data.git
+git clone https://github.com/tesfayefekadu/Data-Warehouse-for-Ethiopian-Medical-Business-Data.git
 cd Data-Warehouse-for-Ethiopian-Medical-Business-Data
 \`\`\`
 
@@ -155,5 +155,3 @@ To run the entire data pipeline (scraping, cleaning, transformation, object dete
 - **Object Detection**: YOLO detected objects such as people, ties, and other relevant elements in images.
 - **Data Warehouse**: The transformed and enriched data is stored in PostgreSQL for querying and analysis.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
